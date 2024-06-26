@@ -25,8 +25,8 @@ A simple TODO application built using Flutter and Sqflite, a local SQLite databa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AtefMMO/todo-app-sqflite.git
-   cd todo-app-sqflite
+   git clone https://github.com/AtefMMO/sqflite.git
+   cd sqflite
    ```
 
 2. Install dependencies:
