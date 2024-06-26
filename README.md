@@ -1,6 +1,3 @@
-Certainly! Here's the README formatted for a GitHub repository:
-
----
 
 # TODO App using Sqflite
 
